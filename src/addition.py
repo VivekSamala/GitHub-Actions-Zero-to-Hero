@@ -1,6 +1,5 @@
 # app.py
-# This is a test commit
-# Sample code
+# My first Actions
 def add(a, b):
     return a + b
 
